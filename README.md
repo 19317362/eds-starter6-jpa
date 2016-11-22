@@ -11,12 +11,13 @@ If Eclipse gives error on "The Maven APT plugin has a known issue that prevents 
 
 SOLUTION 1
 
-Following this link
 
 
-"The Maven APT plugin has a known issue that prevents its usage directly from Eclipse. Eclipse users must create the Querydsl query types manually by running the command mvn generate-sources at command prompt."
+"The Maven APT plugin has a known issue that prevents its usage directly from Eclipse. 
+Eclipse users must create the Querydsl query types manually by running the command mvn generate-sources at command prompt."
 
-So i execute the command line mvn generate-sources in my project floder with console cmd and i got my Qclasses generated.
+So i execute the command line mvn generate-sources in my project floder with console cmd and 
+i got my Qclasses generated.
 
 SOLUTION 2 from @informatik01 comment
 
